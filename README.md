@@ -1,2 +1,3 @@
 # Zomato-Sales-Insight
-This data is all about the Zomato restaurant customers with the feedback on the cost, votes and other fields to describe data. 
+# Project Objective
+Excel R required aims to provide insights into the impact of these sales and to inform future growth strategies.
