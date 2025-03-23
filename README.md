@@ -34,5 +34,13 @@ b) So, in this way we can give different coupons and discounts on the special oc
   **Table booking** -
   From the analysis, we can see that the percentage of table booking is very less. So, to improve it we can: 
 
+a) We can Simplify the process of finding and booking tables on the Zomato app or website to ensure user friendly interface.
+
+b) Provide partnerships by Collaborating with local events, festivals to promote table bookings through Zomato. Offer special packages or discounts during peak periods. 
+
+c) High-Quality Visuals of their ambiance, interiors, and signature dishes to attract diners.
+
+
+
 
   
