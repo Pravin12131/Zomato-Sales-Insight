@@ -20,3 +20,4 @@ The data was provided by Excel R and includes sales transactions from all stores
     So, we have to focus on getting more sales from other countries on focusing on the following points: 
  	1) Adapting marketing strategies to co-ordinate with local tastes and cultural norms.
  	2) Customize the Zomato app and website local languages, currencies, and cuisines.
+  
