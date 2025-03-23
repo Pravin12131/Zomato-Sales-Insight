@@ -51,8 +51,8 @@ c) Encourage satisfied customers to leave positive reviews and ratings, which ca
 
 d) Offer a brunch menu with special items in reasonable price to get the attention of customers. 
 
-## Excel Dashboard
-- Dashboard Interaction <a href="https://github.com/Pravin12131/Zomato-Sales-Insight/blob/main/Snapshot.docx"> View Dashboard</a>
+## Dashboard Interaction
+- Excel Dashboard: <a href="https://github.com/Pravin12131/Zomato-Sales-Insight/blob/main/Snapshot.docx"> View Dashboard</a>
 
 ## Conclusion
 This project provided a detailed understanding of key business drivers and performance metrics, leading to actionable insights, helping businesses make informed strategic decisions and drive growth.
