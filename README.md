@@ -12,3 +12,5 @@ The data was provided by Excel R and includes sales transactions from all stores
 •	Exploratory Data Analysis (EDA)
 
 •	Comparative Sales Analysis
+## Tools
+•	Using Microsoft Excel for data visualization
