@@ -54,9 +54,6 @@ d) Offer a brunch menu with special items in reasonable price to get the attenti
 ## Dashboard Interaction
 - Excel Dashboard: <a href="https://github.com/Pravin12131/Zomato-Sales-Insight/blob/main/Dashboard.xlsx"> View Dashboard</a>
 
-## Dashboard Image
- <a href="https://github.com/Pravin12131/Zomato-Sales-Insight/blob/main/Snapshot.docx"> Image</a>
-
 ## Conclusion
 This project provided a detailed understanding of key business drivers and performance metrics, leading to actionable insights, helping businesses make informed strategic decisions and drive growth.
 
