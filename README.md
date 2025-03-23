@@ -31,4 +31,8 @@ a) We can launch New Year specials and promotional offers to attract customers.
     
 b) So, in this way we can give different coupons and discounts on the special occasions which comes in QTR-1 and we can apply this on other Quarters also. 
 
+  **Table booking **
+ From the analysis, we can see that the percentage of table booking is very less. So, to improve it we can: 
+
+
   
