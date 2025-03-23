@@ -54,5 +54,7 @@ d) Offer a brunch menu with special items in reasonable price to get the attenti
 ## Conclusion
 This project provided a detailed understanding of key business drivers and performance metrics, leading to actionable insights, helping businesses make informed strategic decisions and drive growth.
 
+- Dashboard Interaction <a href="https://github.com/Pravin12131/Zomato-Sales-Insight/blob/main/Snapshot.docx"> View Dashboard</a>
+
 
   
