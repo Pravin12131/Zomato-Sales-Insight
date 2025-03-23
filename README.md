@@ -14,3 +14,8 @@ The data was provided by Excel R and includes sales transactions from all stores
 •	Comparative Sales Analysis
 ## Tools
 •	Using Microsoft Excel for data visualization
+## Analysis and Finding Insight.
+    Number of Restaurants opened based on Country and City
+ 	As per analysis, we can see that there are more no of restaurants in India as compared to other countries. So, we have to focus on getting more sales from other countries on focusing on the following points: 
+ 	a) Adapting marketing strategies to co-ordinate with local tastes and cultural norms.
+ 	b) Customize the Zomato app and website local languages, currencies, and cuisines.
