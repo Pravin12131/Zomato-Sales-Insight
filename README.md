@@ -25,6 +25,7 @@ b) Customize the Zomato app and website local languages, currencies, and cuisine
  	As per analysis, we can see that in QTR-1, the sales done is less as compared to other Quarters.  
   So, to increase the sales in QTR-1, we can:
    	a) We can launch New Year specials and promotional offers to attract customers. 
+    
  	b) So, in this way we can give different coupons and discounts on the special occasions which comes in QTR-1 and we can apply this on other Quarters also. 
 
   
