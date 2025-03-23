@@ -43,13 +43,13 @@ c) High-Quality Visuals of their ambiance, interiors, and signature dishes to at
 **Weekend/Weekdays Sales** -
  	Weekend/Weekdays also affects the sales. From the analysis, we can see that the sales are down on weekend. For that:
  	
- 	a) We can introduce Special Weekend Offers such as buy-one-get-one offers, discounts on combos, or special pricing on popular dishes.
+a) We can introduce Special Weekend Offers such as buy-one-get-one offers, discounts on combos, or special pricing on popular dishes.
  	
- 	b) Promote your weekend offers and specials on social media platforms to reach a wider audience beyond Zomato users.
+b) Promote your weekend offers and specials on social media platforms to reach a wider audience beyond Zomato users.
 
- 	c) Encourage satisfied customers to leave positive reviews and ratings, which can improve your restaurant's overall experience on Zomato.
+c) Encourage satisfied customers to leave positive reviews and ratings, which can improve your restaurant's overall experience on Zomato.
 
- 	d) Offer a brunch menu with special items in reasonable price to get the attention of customers. 
+d) Offer a brunch menu with special items in reasonable price to get the attention of customers. 
 
 
 
