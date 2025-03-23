@@ -25,14 +25,14 @@ b) Customize the Zomato app and website local languages, currencies, and cuisine
 
 **Quarter wise Sales Analysis** -
  	As per analysis, we can see that in QTR-1, the sales done is less as compared to other Quarters.  
-  So, to increase the sales in QTR-1, we can:
+  So, to increase the sales in QTR-1
   
 a) We can launch New Year specials and promotional offers to attract customers. 
     
 b) So, in this way we can give different coupons and discounts on the special occasions which comes in QTR-1 and we can apply this on other Quarters also. 
 
   **Table booking** -
-  From the analysis, we can see that the percentage of table booking is very less. So, to improve it we can: 
+  From the analysis, we can see that the percentage of table booking is very less. So, to improve it: 
 
 a) We can Simplify the process of finding and booking tables on the Zomato app or website to ensure user friendly interface.
 
@@ -40,6 +40,16 @@ b) Provide partnerships by Collaborating with local events, festivals to promote
 
 c) High-Quality Visuals of their ambiance, interiors, and signature dishes to attract diners.
 
+**Weekend/Weekdays Sales** -
+ 	Weekend/Weekdays also affects the sales. From the analysis, we can see that the sales are down on weekend. For that:
+ 	
+ 	a) We can introduce Special Weekend Offers such as buy-one-get-one offers, discounts on combos, or special pricing on popular dishes.
+ 	
+ 	b) Promote your weekend offers and specials on social media platforms to reach a wider audience beyond Zomato users.
+
+ 	c) Encourage satisfied customers to leave positive reviews and ratings, which can improve your restaurant's overall experience on Zomato.
+
+ 	d) Offer a brunch menu with special items in reasonable price to get the attention of customers. 
 
 
 
